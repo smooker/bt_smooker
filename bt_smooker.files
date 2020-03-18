@@ -1,0 +1,13 @@
+CMakeLists.txt
+README.md
+README.rst
+go.sh
+go_ser.sh
+go_ser1.sh
+main/CMakeLists.txt
+main/ble_spp_server_demo.c
+main/ble_spp_server_demo.h
+main/component.mk
+sdkconfig.defaults
+tmp/file.txt
+tmp/test.pl
